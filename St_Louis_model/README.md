@@ -12,3 +12,7 @@ I_w: infected snails in freshwater source
 C_w: concentration of cercariae in freshwater source
 
 M_w: concentration of miracidia in freshwater source
+
+P_v: total number of adult parasites 
+
+mu_H: human mortality
