@@ -1,21 +1,26 @@
 # Urinary Schistosomiasis Research
 
-Olivia Kern's urinary schistosomiasis research.
+Olivia Kern's urinary schistosomiasis research. 
+
+## Main objectives
+
+The primary objective of this repository is to obtain a model that would allow for the calculation of the likelihood of a person to be infected with Schistosomiasis given a set of variables to be chosen.
+
+This research will mostly focus on the Togo area that I was researching: Ogou district.
 
 ## Variables
 
 The variables which I am interested in modeling are:
 
-- Variable 1: description of why I think this should be relevant
-- Variable 2: same thing...
-- ...
-- ...
+- MDA Frequency `MDA_freq` [days]: The frequency at which the Mass Drug Administration campaing is being done, in days. E.g., `MDA_freq = 95` will mean that the MDA procedure is being held every 95 days.
+
+
 
 ## Correlation Between Variables
 
-From what I've noticed, var1 is highly correlated with var2, since blablabla...
+**MDA frequency correlation:** Heuristically, I would expect to see an upwards trend in the likelohood of a person to be infected as the `MDA_freq` variable increases, since this would entail that protocol is not being followed. Given that medicines are designed to be taken at a specific time, not following this guidelines decreases its efficacy. [cite cite cite]
 
-Additionally, varX and varY **should** be correlated, since blablabla...
+- Weight of this variable: {Linear,Quadratic,Exponential,Log}... still need to determine.
 
 ## Modeling
 
