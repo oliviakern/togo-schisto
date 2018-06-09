@@ -14,8 +14,6 @@ The variables which I am interested in modeling are:
 
 - MDA Frequency `MDA_freq` [days]: The frequency at which the Mass Drug Administration campaing is being done, in days. E.g., `MDA_freq = 95` will mean that the MDA procedure is being held every 95 days.
 
-
-
 ## Correlation Between Variables
 
 **MDA frequency correlation:** Heuristically, I would expect to see an upwards trend in the likelohood of a person to be infected as the `MDA_freq` variable increases, since this would entail that protocol is not being followed. Given that medicines are designed to be taken at a specific time, not following this guidelines decreases its efficacy. [cite cite cite]
