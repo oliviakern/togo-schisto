@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 JUN 2018 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 JUN 2018 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,14 +193,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
-\OT1/cmr/m/n/12 nity health worker given fac-tors $\OML/cmm/m/it/12 a$\OT1/cmr/
-m/n/12 , $\OML/cmm/m/it/12 r$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 f$ \OT1/cmr/m/
-n/12 is $[]$.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
+Underfull \hbox (badness 10000) in paragraph at lines 29--37
 
  []
 
@@ -218,7 +211,7 @@ Here is how much of TeX's memory you used:
  5226 multiletter control sequences out of 15000+600000
  11490 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,6n,32p,643b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,6n,32p,650b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
@@ -229,7 +222,7 @@ onts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb>
-Output written on togo-schisto.pdf (3 pages, 100960 bytes).
+Output written on togo-schisto.pdf (3 pages, 101191 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
