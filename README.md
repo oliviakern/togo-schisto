@@ -14,8 +14,6 @@ The variables which I am interested in modeling are:
 
 - MDA Frequency `MDA_freq` [days]: The frequency at which the Mass Drug Administration campaing is being done, in days. E.g., `MDA_freq = 95` will mean that the MDA procedure is being held every 95 days.
 
-
-
 ## Correlation Between Variables
 
 **MDA frequency correlation:** Heuristically, I would expect to see an upwards trend in the likelohood of a person to be infected as the `MDA_freq` variable increases, since this would entail that protocol is not being followed. Given that medicines are designed to be taken at a specific time, not following this guidelines decreases its efficacy. [cite cite cite]
@@ -38,7 +36,22 @@ Same thing, with descriptions and plots and the maths...
 
 ![plot of second model][plot2]
 
-## Any other subtitle
+## Probability simulation of MDA effectiveness
+
+Given samples of USPs Kpakpo (5, 155 persons>5 y.o. in 8 villages) and Agbonou (33,170 persons>5 y.o. in 44 villages)
+Assume 6 individuals per household, 6,388 households
+
+How many individuals per household compliant during distribution?
+
+P(_MDA_effectiveness_) = n/6 2(P n A) r, f, c
+effectivenes : some high percentage of population treated with PC
+n : number of individuals
+return boolean values T,F:
+P : present
+A : awake
+r : reaction 
+f : fed (no fast)
+c : otherwise compliant
 
 ...
 
