@@ -41,17 +41,16 @@ Same thing, with descriptions and plots and the maths...
 Given samples of USPs Kpakpo (5, 155 persons>5 y.o. in 8 villages) and Agbonou (33,170 persons>5 y.o. in 44 villages)
 Assume 6 individuals per household, 6,388 households
 
-How many individuals per household compliant during distribution?
+How many individuals per household compliant (take drugs) during distribution?
 
-P(_MDA_effectiveness_) = n/6 2(P n A) r, f, c
+P(_MDA_effectiveness_) = n/6  a, r, f
 effectivenes : some high percentage of population treated with PC
 n : number of individuals
-return boolean values T,F:
-P : present
 A : awake
 r : reaction 
 f : fed (no fast)
-c : otherwise compliant
+
+Want to determine number of total positive outcomes in which a,r,f are all =1 (if an individual satisfies *all* of the criteria above and realizes successful MDA outcome) // all possible outcomes
 
 ...
 
