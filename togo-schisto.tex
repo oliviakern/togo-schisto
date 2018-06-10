@@ -1,0 +1,119 @@
+ 
+\documentclass[12pt]{article}
+ 
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb}
+%\usepackage[mathscr]
+%\usepackage{mathrsfs}
+\begin{document}
+ 
+
+% --------------------------------------------------------------
+ 
+ 
+\title{Modeling Schistosomiasis Transmission in Togo's Ogou District}%replace X with the appropriate number
+\author{Olivia Kern\\ %replace with your name
+Fulbright Student | Togo, 2017} %if necessary, replace with your course title
+ 
+\maketitle
+ 
+Here I apply a set of ordinary differential equations adapted from Soklow et al. 2017 to which I have added (\iota,y,z) to reflect local dynamics observed during fieldwork contributing to Schistosomiasis transmission in Ogou. I also developed an equation to describe the likelihood of mass drug administration (MDA) success as a function of the variables $f$, $a$, $p$, $$ affecting treatment compliance.
+presence and awake, history of adverse reactions, having eaten something on any given distribution day 
+treatable population is defined as modified by incorporating (iota and ?) to fit the particular setting in Togo's Ogou district. I incorporated ... term into Eq (\ref{eq:PopRateofChange})  to reflect a consistent number of Ghanian immigrants belonging to the () culture who may have joined the community without having received preventative chemotherapy, increasing the susceptible human population
+phenomenon observed during fieldwork. 
+Adapted a nonlinear model  accounting for snail dispersal
+
+
+The first equation (\ref{eq:PopRateofChange}) describes the rate of human population change in endemic villages. the per capita natality rate $\mu_H$ represents population growth, to which I incorporated a variable $\iota$ representing net migration given the importance of an influx of untreated persons to the transmission dynamics
+ offset by parasite-incduced death given $\alpha$ parasitic pathogenicity.
+including the mating pair dynamics (?) and the impact of poor sanitation (variable)
+This $N_v$ is the symbol for the population...
+
+\begin{equation}\label{eq:PopRateofChange}
+\dot{N}_v = \mu_H\iota(H_v - N_v) - \alpha P_v
+\end{equation}
+ 
+ \begin{equation}\label{eq:ParasiteRateofChange}
+ \dot{P}_v = F_vN_v - (\mu_H + \mu_P + \alpha)P_v - \alpha \frac{k +1}{k} \frac{P_v^2}{N_v}
+ \end{equation}
+
+\begin{equation}\label{eq:SusceptibleRateofChange}
+\dot{S}_w = vS_w [1- \gamma_w (S_w + E_w + I_w)] - \mu_S S_w - \rho M_wS_w + D_w^s
+ %$\mathscr{D}$
+\end{equation}
+ 
+\begin{equation}\label{eq:ExposedRateofChange}
+\dot{E}_w = \rho M_wS_w - (\mu_s +\eta) I_w + D_w^E
+\end{equation}
+ 
+\begin{equation}\label{eq:InfectedRateofChange}
+\dot{I}_w = \delta E_w - (\mu_s +\eta) I_w + D_w^I
+\end{equation}
+  
+\begin{equation}\label{eq:CercariaeRateofChange}
+\dot{C}_w = \zeta I_w - \mu_cC_w+  L_w^I
+ %$\mathscr{L}$
+\end{equation}
+ 
+\begin{equation}\label{eq:MiracidiaRateofChange}
+\dot{M}_w = \varrho M_w +  L_w^M
+ %$\mathscr{L}$
+\end{equation}
+ 
+\begin{equation}\label{eq:ForceofInfection}
+ F_v = \beta \sum_{j=1}^{n_w} \Omega_vw C_w
+\end{equation}
+
+\begin{equation}\label{eq:contact matrix}
+ F_v = \beta \sum_{j=1}^{n_w} \Omega_vw C_w
+\end{equation}
+
+$n_v$ villages
+
+$n_w$ water points
+
+$N_v$ human population size in each village
+
+$P_v$ total number of parasites in human hosts in each village
+
+$S_w$ susceptible snails in freshwater source
+
+$E_w$ exposed snails in freshwater source
+
+$I_w$ infected snails in freshwater source
+
+$C_w$ concentration of cercariae in freshwater source
+
+$M_w$  concentration of miracidia in freshwater source
+
+$P_v$ total number of adult parasites
+
+$\mu_H$ natural human host mortality
+
+$\mu_P$ per capita parasite mortality
+
+$v$ intrinsic natality rate
+
+$\gamma_w$ site-specific effect of density dependence
+
+$\mu_s$ mortality rate of susceptible snails
+
+%ρ: exposure rate of susceotible snails
+
+%1/δ: delay between infection (S-> E) and onset of infectiousness (E -> I)
+
+%η: disease-induced death rate infected snails are subject to
+
+%μ_C: uniform mortality rate of cercariae
+
+%ζ: rate at which cercariae are shed from infected snails
+
+%μ_M: uniform mortality rate of miracidia
+
+χ: human contamination rate
+ % --------------------------------------------------------------\begin{equation}
+\rho \cap \alpha
+\end{equation}
+
+ 
+\end{document}
