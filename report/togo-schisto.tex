@@ -7,31 +7,59 @@
 %\usepackage{mathrsfs}
 \begin{document}
  
+ %specific information for my study $n_w = 9$
 
 % --------------------------------------------------------------
  
  
-\title{Modeling Schistosomiasis Transmission in Togo's Ogou District}%replace X with the appropriate number
-\author{Olivia Kern\\ %replace with your name
-Fulbright Student | Togo, 2017} %if necessary, replace with your course title
+\title{Modeling Schistosomiasis Transmission in Togo's Ogou District}
+\author{Olivia Kern\\
+Fulbright Student | Togo, 2017} 
  
-\maketitle
- 
-Here I apply a set of ordinary differential equations adapted from Soklow et al. 2017 to which I have added ($\iota$,y,z) to reflect local dynamics observed during fieldwork contributing to Schistosomiasis transmission in Ogou. I also developed an equation to describe the likelihood of mass drug administration (MDA) success as a function of the variables $f$, $a$, $p$, $unknown$ affecting treatment compliance.
+\maketitle \textbf{Background}
 
-presence and awake, history of adverse reactions, having eaten something on any given distribution day 
-treatable population is defined as modified by incorporating (iota and ?) to fit the particular setting in Togo's Ogou district. I incorporated ... term into Eq (\ref{eq:PopRateofChange})  to reflect a consistent number of Ghanian immigrants belonging to the () culture who may have joined the community without having received preventative chemotherapy, increasing the susceptible human population
-phenomenon observed during fieldwork. 
-Adapted a nonlinear model  accounting for snail dispersal
+Despite six years of continuous mass drug administration (MDA) activities at the national level, prevalence of three neglected tropical diseases--Schistosomiasis, Soil-transmitted Helminths and Onchocerciasis--has increased in Togo's Ogou district. Determining the factors contributing to low rates of MDA success is key to improving the outcomes of future control programs. I followed MDA activities across six villages in two peripheral health units (USP) and generated a (descriptor) probabilistic model  ($S_{MDA}$) based on my observations to assess the likelihood of a given person's compliance to MDA. 
+
+\begin{equation}\label{eq:probMDA}
+ P(S_{MDA}) = a \cup r \cup f
+\end{equation}
+
+ %a (2 values) & r (2 values) & f (2 values) = 8 possible combinations.
+ %the togolese ministry of health mandates each individual to consume the full dose of preventative chemotherapy distributed during MDA in front of the community health worker responsible for distribution. 
+ For a person to be eligible for MDA compliance, he or she must be present in his or her own household during PZQ distribution activities and have true values for all elements $a$ (wakefulness), $r$ (no past adverse reaction to Praziquantel) and $f$ (meal within 4 hours before MDA) and have taken the full required d. Because a true value for each element corresponds to a value of 1,
+ %, and there are two possible outcome for each element (True=1 or False=0) 
+ the likelihood of  MDA compliance for an individual who is successfully reached by a community health worker given factors $a$, $r$, $f$ is $\frac{1}{8}$.
+\linebreak
+
+%Want to place MDA delivery in the context of local ecological transmission networks/pathways through the following:
+%How does MDA compliance (% of population compliant) affect schistosomiais infection levels?
+ %I want to be able to express the importance of number of present (1,2,3,4,5,6) persons in the household through a multipyling factor of the probability
+%Distribution activities are supposed to take place over the course of one month (=/- 15 days) there is a maximum of 30/182.5 days allocated for distribution
+
+%	mapping of highly trafficked water points
+%proximity to villages
+%human infection rates at USP and village level
+%snail collection at these {w_p} 
+%snail classification and diagnostics to determine snail infection load at given site
+%trasnmission dynamics via hydrological transport of schistosome larvae.
+
+%-------------part 2
+Until now, MDA has been the sole intervention used for Schistosomiasis control in Togo. Given the challenges of achieving high coverage rates and therefore high rates of control with MDA alone, it may be desireable to explore the implementation of addtional strategies for Schistosomiasis control, focused on snail to human transmission dynamics. Many recent studies(cite) have highlighted the effectiveness of a combination of MDA and snail control strategies for Schistosomiasis control. 
+
+To simulate the benefits of such interventions for control in Ogou,  I will apply a set of ordinary differential equations adapted from Ciddio et al. 2017 which model the dynamics of Schistosomiasis transmission between snail and human populations. I have incorporated my own unique variables to reflect local phenomena affecting infection rates observed during my fieldwork in Ogou. These are $\iota_H$ representing net immigration into Ogou, which we assume is $>$0 given a stable influx of Ghanian immigrants into the region (\ref{eq:PopRateofChange}) %; $var2$
+
+%It is important to account for/consider the number of Ghanian immigrants belonging to the () culture who join the community given without having received preventative chemotherapy, increasing the susceptible human population
 
 
-The first equation (\ref{eq:PopRateofChange}) describes the rate of human population change in endemic villages. the per capita natality rate $\mu_H$ represents population growth, to which I incorporated a variable $\iota$ representing net migration given the importance of an influx of untreated persons to the transmission dynamics
+The system of differential equations is expressed in terms of the human population size $N_v$ and the total number of parasites $P_v$ within human hosts living in each village $_v$, the density of susceptible, exposed, and infectious snails $S_w$, $E_w$, $I_w$ in the freshwater point $_w$, and the concentration of cercariae $C_w$ and miracidia $M_w$ in the freshwater body.
+$n_v$ villages and $n_w$ water points
+The first equation (\ref{eq:PopRateofChange}) describes the rate of human population change in endemic villages. the per capita natality rate $\mu_H$ represents population growth, to which I incorporated a variable $\iota_H$ representing net migration given the importance of an influx of untreated persons to the transmission dynamics
  offset by parasite-incduced death given $\alpha$ parasitic pathogenicity.
 including the mating pair dynamics (?) and the impact of poor sanitation (variable)
 This $N_v$ is the symbol for the population...
 
 \begin{equation}\label{eq:PopRateofChange}
-\dot{N}_v = \mu_H\iota(H_v - N_v) - \alpha P_v
+\dot{N}_v = \mu_H\iota_H(H_v - N_v) - \alpha P_v
 \end{equation}
  
  \begin{equation}\label{eq:ParasiteRateofChange}
@@ -113,9 +141,10 @@ $\mu_s$ mortality rate of susceptible snails
 
 χ: human contamination rate
  % --------------------------------------------------------------
-\begin{equation}
-\rho \cap \alpha
-\end{equation}
+%some potentially useful statistics to include in testing of a model are an annual birthrate of 33.3/ 1000 persons and an annual death rate (due to other causes) of 6.9/1000 persons, yielding a net growth rate of 0.0264 or 2.64%
+%over a 10-year average, there is a 2.62% annual growth rate
 
+%other population information that will affect the outcomes and applications of the above models include age and sex of the individual, 
+%assume a 25.7% infction rate for individuals infected with schisto (112/436 millions of people) infected per susceptible given 2003 estimates.
  
 \end{document}
