@@ -25,6 +25,7 @@ ehthumbs.db
 *.log
 *.out
 *.synctex.gz
+*.synctex.gz(busy)
 *.bbl
 *.blg
 
