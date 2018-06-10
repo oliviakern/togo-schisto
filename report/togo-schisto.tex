@@ -117,5 +117,31 @@ $\mu_s$ mortality rate of susceptible snails
 \rho \cap \alpha
 \end{equation}
 
+
+\section{Equation Example}
+
+A typical Linear-Time invariant (LTI) system can be described by the equation
+
+\begin{equation}\label{eq:ltiSys}
+\dot{\mathbf{x}}(t) = \mathbf{A} \mathbf{x}(t) + \mathbf{B} \mathbf{u}(t),
+\end{equation}
+
+in which ${\mathbf{x}}(t)$ represents the system's state vector, $\mathbf{A}$ denotes the system matrix that models the interaction between variables, $\mathbf{B}$ the way in which the inputs affect the different states, and $\mathbf{u}(t)$ the chosen control action at time $t$.
+
+This way of expressing an LTI system yields a deterministic equation. Since I am interested in working with stochastic processes, I chose to add an additional term to this equation. The modified equation  looks like
+
+\begin{equation}\label{eq:ltiSysStochastic}
+\dot{\mathbf{x}}(t) = \mathbf{A} \mathbf{x}(t) + \mathbf{B} \mathbf{u}(t) + \underbrace{ \mathbf{B}_w \mathbf{w}(t)}_{\text{random noise variable}},
+\end{equation}
+
+in which the additional term is a factor of two variables:
+\begin{align*}
+\mathbf{w}(t) \in \mathbb{R}^{n} &: \text{white uncorrelated random noise variable} \\
+\mathbf{B}_w \in \mathbb{R}^{m\times n} &: \text{matrix that denotes which states are corrupted by noise}
+\end{align*}
+
+
+The reason behind the addition of the variables $\mathbf{w}(t)$ is that in real life scenarios, our sensors are not able to tell us with $100\%$ accuracy what the actual state of our variables are. Ancillary, if we are controling a system, it is unavoidable that the control input commanded from our computers --- e.g., the force or torque to be produced at a certain axis --- will not be exactly the same as the one produced by our actuators, and there is bound to be some uncertainty there as well. By including this random variable in the equation, and giving it the appropriate noise characteristics and behaviour that accuratelly describes the statistical behavior of our system, we can obtain a stochastic model.
+
  
 \end{document}
