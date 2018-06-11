@@ -18,167 +18,57 @@
 Fulbright Student | Togo, 2017} 
  
 \maketitle \textbf{Background}
-
-Despite six years of continuous mass drug administration (MDA) activities at the national level, prevalence of three neglected tropical diseases--Schistosomiasis, Soil-transmitted Helminths and Onchocerciasis--has increased in Togo's Ogou district. Determining the factors contributing to low rates of MDA success is key to improving the outcomes of future control programs. I followed MDA activities across six villages in two peripheral health units (USP) and generated a (descriptor) probabilistic model  ($S_{MDA}$) based on my observations to assess the logical statement of a given person's compliance to MDA. 
-%ratio is a probability sum of the events number of combinations is probability 
-%defines the possible outcomes. highlight the 
-%propositional (statements) logic
-Let a person be eligible for MDA if 
-boolean model 
-\begin{equation}\label{eq:probMDA}
- C_{MDA} = p \wedge a \wedge r \wedge f
-\end{equation}
-ggit pull
-boolean values
- %a (2 values) & r (2 values) & f (2 values) = 8 possible combinations.
- %the togolese ministry of health mandates each individual to consume the full dose of preventative chemotherapy distributed during MDA in front of the community health worker responsible for distribution. 
- For a person to be eligible for MDA compliance, he or she must be present in his or her own household during PZQ distribution activities and have true values for all elements $a$ (wakefulness), $r$ (no past adverse reaction to Praziquantel) and $f$ (meal within 4 hours before MDA) and have taken the full required d. Because a true value for each element corresponds to a value of 1,
- %, and there are two possible outcome for each element (True=1 or False=0) 
- the likelihood of  MDA compliance for an individual who is successfully reached by a community health worker given factors $a$, $r$, $f$ is $\frac{1}{8}$.
 \linebreak
 
-%Want to place MDA delivery in the context of local ecological transmission networks/pathways through the following:
-%How does MDA compliance (% of population compliant) affect schistosomiais infection levels?
- %I want to be able to express the importance of number of present (1,2,3,4,5,6) persons in the household through a multipyling factor of the probability
-%Distribution activities are supposed to take place over the course of one month (=/- 15 days) there is a maximum of 30/182.5 days allocated for distribution
+Mass drug administration (MDA) with antiparasitic agents is a commonly employed strategy for neglected tropical disease control. Togo has organized MDA activities at the national level for the last seven years in an attempt to control Schistosomiasis, Soil-transmitted Helminths and Onchocerciasis. The frequency of antiparasite distribution is determined by gross estimates of disease prevalence. Given the challenges associated with gathering representative infection data and the challenge of achieving effective control through antiparasite distribution, complementary strategies to supplement control using MDA should be explored. The Ogou district, where Schistosomiasis  prevalence has $increased$ since the launch of MDA activities in 2011 presents a strong case for implementing a more comprehensive control strategy. I will outline the main factors contributing to the low rate of MDA success for Schistosomiasis control and highlight the need for more comprehensive control strategies through the use of a mathematical model. 
+\linebreak
 
-%	mapping of highly trafficked water points
-%proximity to villages
-%human infection rates at USP and village level
-%snail collection at these {w_p} 
-%snail classification and diagnostics to determine snail infection load at given site
-%trasnmission dynamics via hydrological transport of schistosome larvae.
+% ****change at the Ministry of Health level. 
+%key to improving the outcomes of future control programs. 
+I followed MDA activities across six villages in two peripheral health units to identify the most common causes underlying MDA treatment failure. Refusal to ingest the drug Praziquantel was common, and the main reasons driving compliance during MDA activities $C_{MDA}$ are presented by the boolan algebraic expression
 
-%-------------part 2
-Until now, MDA has been the sole intervention used for Schistosomiasis control in Togo. Given the challenges of achieving high coverage rates and therefore high rates of control with MDA alone, it may be desireable to explore the implementation of addtional strategies for Schistosomiasis control, focused on snail to human transmission dynamics. Many recent studies(cite) have highlighted the effectiveness of a combination of MDA and snail control strategies for Schistosomiasis control. 
+\begin{equation}\label{eq:probMDA}
+ C_{MDA} = p \wedge a \wedge r \wedge f 
+\end{equation}
 
-To simulate the benefits of such interventions for control in Ogou,  I will apply a set of ordinary differential equations adapted from Ciddio et al. 2017 which model the dynamics of Schistosomiasis transmission between snail and human populations. I have incorporated my own unique variables to reflect local phenomena affecting infection rates observed during my fieldwork in Ogou. These are $\iota_H$ representing net immigration into Ogou, which we assume is $>$0 given a stable influx of Ghanian immigrants into the region (\ref{eq:PopRateofChange}) %; $var2$
+in which $p$=true signifies a person's presence in his or her household, $a$=true corresponds to a state of wakefulness, $r$=true designates no prior adverse reaction to Praziquantel and $f$=true represents satiety (targeted person had a meal within 2 hours prior to MDA). For a positive outcome leading to PZQ ingestionall four of the elements must be true. Therefore, the likelihood of  MDA compliance for an individual who is successfully reached by a community health worker during distribution can be estimated at $\frac{1}{2^4}$ or $\frac{1}{16}$.
+\linebreak
 
-%It is important to account for/consider the number of Ghanian immigrants belonging to the () culture who join the community given without having received preventative chemotherapy, increasing the susceptible human population
+%-------------part 2and  observations to communicate the main factors contributing to The combination of factors required to be true at the time of chemotherapy distribution are defined as generated a  based on my
+%include something on the size of the pills (strategies for breaking and swallowing?
+ %a (2 values) & r (2 values) & f (2 values) = 8 possible combinations.
+ %the togolese ministry of health mandates each individual to consume the full dose of preventative chemotherapy distributed during MDA in front of the community health worker responsible for distribution. 
+ 
+To highlight the need to incorporate interventions in addition to MDA for Schistosomiasis control in the Ogou district, I will incorporate the expression (\ref{eq:probMDA}) into a set of ordinary differential equations adapted from Ciddio et al. 2017 which describe the transmission dynamics of Schistosomiasis between snail and human populations (\ref{eq:PopRateofChange}, \ref{eq:ParasiteRateofChange}). I have modified these equations to reflect local phenomena affecting infection rates observed during my fieldwork in Ogou. 
 
+%These are $\iota_H$ representing net immigration into Ogou, which we assume is $>$0 given a stable influx of Ghanian immigrants into the region (\ref{eq:PopRateofChange}) 
 
-The system of differential equations is expressed in terms of the human population size $N_v$ and the total number of parasites $P_v$ within human hosts living in each village $_v$, the density of susceptible, exposed, and infectious snails $S_w$, $E_w$, $I_w$ in the freshwater point $_w$, and the concentration of cercariae $C_w$ and miracidia $M_w$ in the freshwater body.
-$n_v$ villages and $n_w$ water points
-The first equation (\ref{eq:PopRateofChange}) describes the rate of human population change in endemic villages. the per capita natality rate $\mu_H$ represents population growth, to which I incorporated a variable $\iota_H$ representing net migration given the importance of an influx of untreated persons to the transmission dynamics
- offset by parasite-incduced death given $\alpha$ parasitic pathogenicity.
-including the mating pair dynamics (?) and the impact of poor sanitation (variable)
-This $N_v$ is the symbol for the population...
+The rate of change of human population growth in a village ($_v$) with parasites present can be described as 
 
 \begin{equation}\label{eq:PopRateofChange}
-\dot{N}_v = \mu_H\iota_H(H_v - N_v) - \alpha P_v
+\dot{N}_v = (\mu_H+\iota_H)(H_v - N_v) - \alpha P_v
 \end{equation}
+
+ in which the human population of a village is $N_v$, and population growth is described by the sum of the per capita natality rate $\mu_H$ and the net immigration rate $\iota_H$ $>$ 0, which, when multiplied by the village community size $H_v$ defines the human population susceptible to parasitism by blood flukes. The constant $\alpha$ represents the pathogenicity of a mated worm pair to its human host. 
+ 
+ The rate of change of parasite population growth in a village $_v$ is defined by
  
  \begin{equation}\label{eq:ParasiteRateofChange}
- \dot{P}_v = F_vN_v - (\mu_H + \mu_P + \alpha)P_v - \alpha \frac{k +1}{k} \frac{P_v^2}{N_v}
+ \dot{P}_v = F_vN_v - (\mu_H + \mu_P + \alpha)P_v - \alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}
  \end{equation}
 
-\begin{equation}\label{eq:SusceptibleRateofChange}
-\dot{S}_w = vS_w [1- \gamma_w (S_w + E_w + I_w)] - \mu_S S_w - \rho M_wS_w + D_w^s
- %$\mathscr{D}$
-\end{equation}
- 
-\begin{equation}\label{eq:ExposedRateofChange}
-\dot{E}_w = \rho M_wS_w - (\mu_s +\eta) I_w + D_w^E
-\end{equation}
- 
-\begin{equation}\label{eq:InfectedRateofChange}
-\dot{I}_w = \delta E_w - (\mu_s +\eta) I_w + D_w^I
-\end{equation}
-  
-\begin{equation}\label{eq:CercariaeRateofChange}
-\dot{C}_w = \zeta I_w - \mu_cC_w+  L_w^I
- %$\mathscr{L}$
-\end{equation}
- 
-\begin{equation}\label{eq:MiracidiaRateofChange}
-\dot{M}_w = \varrho M_w +  L_w^M
- %$\mathscr{L}$
-\end{equation}
- 
+where $P_v$ is the number of parasites in human hosts within each village, $F_vN_v$ describes the force of infection within the human population, $\mu_H$ is the non-schistosomiasis related host mortality rate and  $\mu_P$ is the death of parasites following host death. Parasite population is further decreased by the disease-induced mortality of their human hosts $\alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}$
+\linebreak
+
+ Human susceptibilty to parasite infection from contact with cercariae-infested waters is described by
+
 \begin{equation}\label{eq:ForceofInfection}
- F_v = \beta \sum_{j=1}^{n_w} \Omega_vw C_w
+ F_v = \beta \psi \sum_{j=1}^{n_w} \Omega_vw C_w - (C_{MDA}{N_v})
 \end{equation}
+%I don't really know if beta and psi should be mutiplied or added
 
-\begin{equation}\label{eq:contact matrix}
- F_v = \beta \sum_{j=1}^{n_w} \Omega_vw C_w
-\end{equation}
-
-$n_v$ villages
-
-$n_w$ water points
-
-$N_v$ human population size in each village
-
-$P_v$ total number of parasites in human hosts in each village
-
-$S_w$ susceptible snails in freshwater source
-
-$E_w$ exposed snails in freshwater source
-
-$I_w$ infected snails in freshwater source
-
-$C_w$ concentration of cercariae in freshwater source
-
-$M_w$  concentration of miracidia in freshwater source
-
-$P_v$ total number of adult parasites
-
-$\mu_H$ natural human host mortality
-
-$\mu_P$ per capita parasite mortality
-
-$v$ intrinsic natality rate
-
-$\gamma_w$ site-specific effect of density dependence
-
-$\mu_s$ mortality rate of susceptible snails
-
-%ρ: exposure rate of susceotible snails
-
-%1/δ: delay between infection (S-> E) and onset of infectiousness (E -> I)
-
-%η: disease-induced death rate infected snails are subject to
-
-%μ_C: uniform mortality rate of cercariae
-
-%ζ: rate at which cercariae are shed from infected snails
-
-%μ_M: uniform mortality rate of miracidia
-
-χ: human contamination rate
- % --------------------------------------------------------------
-%some potentially useful statistics to include in testing of a model are an annual birthrate of 33.3/ 1000 persons and an annual death rate (due to other causes) of 6.9/1000 persons, yielding a net growth rate of 0.0264 or 2.64%
-%over a 10-year average, there is a 2.62% annual growth rate
+in which $\beta$ represents the human exposure rate and $\psi$ is a constant describing the continuous contamination of water sources by infected individuals given no sanitation or latrines in the villages studied. The sum of all human contacts with infected water points ($N_w$) described by a contact matrix $\Omega_vw$ incorporates the probability of human contact with cercariae--infested water points ($C_w$) given routine behaviors including bathing and laundry in $_w$. The likelihood of MDA compliance determined by the outcomes of $C_MDA$ are included as a matrix which describes the probability of MDA compliance for the village population. 
 
 
-%other population information that will affect the outcomes and applications of the above models include age and sex of the individual, 
-%assume a 25.7% infction rate for individuals infected with schisto (112/436 millions of people) infected per susceptible given 2003 estimates.
-
-\section{Equation Example}
-
-A typical Linear-Time invariant (LTI) system can be described by the equation
-
-\begin{equation}\label{eq:ltiSys}
-\dot{\mathbf{x}}(t) = \mathbf{A} \mathbf{x}(t) + \mathbf{B} \mathbf{u}(t),
-\end{equation}
-
-in which ${\mathbf{x}}(t)$ represents the system's state vector, $\mathbf{A}$ denotes the system matrix that models the interaction between variables, $\mathbf{B}$ the way in which the inputs affect the different states, and $\mathbf{u}(t)$ the chosen control action at time $t$.
-
-This way of expressing an LTI system yields a deterministic equation. Since I am interested in working with stochastic processes, I chose to add an additional term to this equation. The modified equation  looks like
-
-\begin{equation}\label{eq:ltiSysStochastic}
-\dot{\mathbf{x}}(t) = \mathbf{A} \mathbf{x}(t) + \mathbf{B} \mathbf{u}(t) + \underbrace{ \mathbf{B}_w \mathbf{w}(t)}_{\text{random noise variable}},
-\end{equation}
-
-in which the additional term is a factor of two variables:
-\begin{align*}
-\mathbf{w}(t) \in \mathbb{R}^{n} &: \text{white uncorrelated random noise variable} \\
-\mathbf{B}_w \in \mathbb{R}^{m\times n} &: \text{matrix that denotes which states are corrupted by noise}
-\end{align*}
-
-
-The reason behind the addition of the variables $\mathbf{w}(t)$ is that in real life scenarios, our sensors are not able to tell us with $100\%$ accuracy what the actual state of our variables are. Ancillary, if we are controling a system, it is unavoidable that the control input commanded from our computers --- e.g., the force or torque to be produced at a certain axis --- will not be exactly the same as the one produced by our actuators, and there is bound to be some uncertainty there as well. By including this random variable in the equation, and giving it the appropriate noise characteristics and behaviour that accuratelly describes the statistical behavior of our system, we can obtain a stochastic model.
-
->>>>>>> c4bc90c7184ff71ec692ec196bc591fed884feaa
  
 \end{document}
