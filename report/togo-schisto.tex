@@ -20,26 +20,27 @@ Fulbright Student | Togo, 2017}
 \maketitle \textbf{Background}
 \linebreak
 
-Mass drug administration (MDA) with antiparasitic agents is a commonly employed strategy for neglected tropical disease control. Togo has organized MDA activities at the national level for the last seven years in an attempt to control Schistosomiasis, Soil-transmitted Helminths and Onchocerciasis. The frequency of antiparasite distribution is determined by gross estimates of disease prevalence. Given the challenges associated with gathering representative infection data and the challenge of achieving effective control through antiparasite distribution, complementary strategies to supplement control using MDA should be explored. The Ogou district, where Schistosomiasis  prevalence has $increased$ since the launch of MDA activities in 2011 presents a strong case for implementing a more comprehensive control strategy. I will outline the main factors contributing to the low rate of MDA success for Schistosomiasis control and highlight the need for more comprehensive control strategies through the use of a mathematical model. 
-\linebreak
+Mass drug administration (MDA) with antiparasitic agents is a commonly employed strategy for neglected tropical disease control. Togo has organized MDA activities at the national level for the last seven years in an attempt to control Schistosomiasis, Soil-transmitted Helminths and Onchocerciasis. The frequency of antiparasite distribution is determined by gross estimates of disease prevalence. Given the challenges associated with gathering representative infection data and in achieving effective control through antiparasite distribution, complementary strategies to supplement control with MDA should be explored. The Ogou district, where Schistosomiasis  prevalence has $increased$ since the launch of MDA activities in 2011, presents a strong case for implementing a more comprehensive control strategy. I will outline the main factors contributing to the low rate of MDA success for Schistosomiasis control and highlight the need for a different control strategy through the use of a mathematical model.
+\bigskip
 
 % ****change at the Ministry of Health level. 
 %key to improving the outcomes of future control programs. 
-I followed MDA activities across six villages in two peripheral health units to identify the most common causes underlying MDA treatment failure. Refusal to ingest the drug Praziquantel was common, and the main reasons driving compliance during MDA activities $C_{MDA}$ are presented by the boolan algebraic expression
+I followed MDA activities across six villages in two peripheral health units to identify the most common causes underlying MDA treatment failure. Refusal to ingest the drug Praziquantel was common, and the main reasons driving compliance during MDA activities are presented by the boolan algebraic expression
 
 \begin{equation}\label{eq:probMDA}
  C_{MDA} = p \wedge a \wedge r \wedge f 
 \end{equation}
 
-in which $p$=true signifies a person's presence in his or her household, $a$=true corresponds to a state of wakefulness, $r$=true designates no prior adverse reaction to Praziquantel and $f$=true represents satiety (targeted person had a meal within 2 hours prior to MDA). For a positive outcome leading to PZQ ingestionall four of the elements must be true. Therefore, the likelihood of  MDA compliance for an individual who is successfully reached by a community health worker during distribution can be estimated at $\frac{1}{2^4}$ or $\frac{1}{16}$.
-\linebreak
+in which $C_{MDA}$ expresses treatment compliance in an MDA-targeted individual and can have a value of either 1 (compliance) or 0 (no compliance). For a positive compliance outcome leading to PZQ ingestion, all four of the elements must be true at the time of distribution;  ($p$=true) a person is present in his or her household at time of distribution, ($a$=true) person is awake, ($r$=true) designates no prior adverse reaction to Praziquantel (PZQ) and ($f$=true) represents satiety (MDA-targeted person had a meal within 2 hours of distribution).  Therefore, the likelihood of MDA compliance for an individual who is successfully reached by a community health worker during distribution can be estimated as $\frac{1}{2^4}$ or $\frac{1}{16}$.
+\bigskip
 
 %-------------part 2and  observations to communicate the main factors contributing to The combination of factors required to be true at the time of chemotherapy distribution are defined as generated a  based on my
 %include something on the size of the pills (strategies for breaking and swallowing?
  %a (2 values) & r (2 values) & f (2 values) = 8 possible combinations.
  %the togolese ministry of health mandates each individual to consume the full dose of preventative chemotherapy distributed during MDA in front of the community health worker responsible for distribution. 
  
-To highlight the need to incorporate interventions in addition to MDA for Schistosomiasis control in the Ogou district, I will incorporate the expression (\ref{eq:probMDA}) into a set of ordinary differential equations adapted from Ciddio et al. 2017 which describe the transmission dynamics of Schistosomiasis between snail and human populations (\ref{eq:PopRateofChange}, \ref{eq:ParasiteRateofChange}). I have modified these equations to reflect local phenomena affecting infection rates observed during my fieldwork in Ogou. 
+To highlight the need for Schistosomiasis control strategies in addition to MDA in the Ogou district, I will incorporate the expression (\ref{eq:probMDA}) into a set of ordinary differential equations adapted from \textit{Ciddio et al. 2017} which describe the transmission dynamics of Schistosomiasis between snail and human populations (\ref{eq:PopRateofChange}, \ref{eq:ParasiteRateofChange}). I have modified these equations to reflect local phenomena affecting infection rates observed during my fieldwork in Ogou. 
+\bigskip
 
 %These are $\iota_H$ representing net immigration into Ogou, which we assume is $>$0 given a stable influx of Ghanian immigrants into the region (\ref{eq:PopRateofChange}) 
 
@@ -49,26 +50,33 @@ The rate of change of human population growth in a village ($_v$) with parasites
 \dot{N}_v = (\mu_H+\iota_H)(H_v - N_v) - \alpha P_v
 \end{equation}
 
- in which the human population of a village is $N_v$, and population growth is described by the sum of the per capita natality rate $\mu_H$ and the net immigration rate $\iota_H$ $>$ 0, which, when multiplied by the village community size $H_v$ defines the human population susceptible to parasitism by blood flukes. The constant $\alpha$ represents the pathogenicity of a mated worm pair to its human host. 
+ in which the human population of a village is $N_v$, and population growth is expressed by the sum of the per capita natality rate $\mu_H$ and the net immigration rate $\iota_H$ $>$ 0, which, when multiplied by the village community size $H_v$ defines the human population susceptible to parasitism by blood flukes. The constant $\alpha$ represents the pathogenicity of a mated worm pair to its human host. 
+ \bigskip
  
- The rate of change of parasite population growth in a village $_v$ is defined by
+ The rate of change of parasite population growth in a village ($_v$) is defined by
  
  \begin{equation}\label{eq:ParasiteRateofChange}
- \dot{P}_v = F_vN_v - (\mu_H + \mu_P + \alpha)P_v - \alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}
+ \dot{P}_v = F_v N_v - (\mu_H + \mu_P + \alpha)P_v - \alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}
  \end{equation}
 
-where $P_v$ is the number of parasites in human hosts within each village, $F_vN_v$ describes the force of infection within the human population, $\mu_H$ is the non-schistosomiasis related host mortality rate and  $\mu_P$ is the death of parasites following host death. Parasite population is further decreased by the disease-induced mortality of their human hosts $\alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}$
-\linebreak
+where $P_v$ is the number of parasites in human hosts within each village, $F_vN_v$ describes the force of infection within the human population, $\mu_H$ is the non-schistosomiasis related host mortality rate and $\mu_P$ is the death of parasites following host death. Parasite population is further reduced by the disease-induced mortality of their human hosts $\alpha \frac{k +1 }{k}\frac{P_v^2}{N_v}$ wherein parasite distribution among human hosts is modeled as a negative binomial distribution with a clumping parameter of $k$ [2].
+\bigskip
 
- Human susceptibilty to parasite infection from contact with cercariae-infested waters is described by
+Human susceptibilty to parasite infection from contact with cercariae-infested waters is described by the force of infection at the village level $F_v$
 
 \begin{equation}\label{eq:ForceofInfection}
- F_v = \beta \psi \sum_{j=1}^{n_w} \Omega_vw C_w - (C_{MDA}{N_v})
+F_v = \beta \psi \sum_{j=1}^{n_w} {\bf \Omega} C_w - \sum_{j=1}^{n_Nv} {\bf C}
 \end{equation}
-%I don't really know if beta and psi should be mutiplied or added
 
-in which $\beta$ represents the human exposure rate and $\psi$ is a constant describing the continuous contamination of water sources by infected individuals given no sanitation or latrines in the villages studied. The sum of all human contacts with infected water points ($N_w$) described by a contact matrix $\Omega_vw$ incorporates the probability of human contact with cercariae--infested water points ($C_w$) given routine behaviors including bathing and laundry in $_w$. The likelihood of MDA compliance determined by the outcomes of $C_MDA$ are included as a matrix which describes the probability of MDA compliance for the village population. 
+in which $\beta$ represents the human exposure rate and $\psi$ is a constant representing the continuous contamination cycle of water points $_w$ by infected individuals given an absence of latrines in the villages studied. The contact matrix ${\bf \Omega}$ = $\Omega_{vw}$ expresses the probability that a person from a village $_v$ will come into contact with any cercariae--infected water point ($C_w$). This accounts for routine activities such as bathing and laundry which put individuals at great risk of infection from contaminated water sources. The likelihood of an individual to be MDA compliant is represented by the matrix $\bf{C}$ and has an effect of lowering the $F_v$ if it has a value $>$ 0. However, given the low probability of complicance ($\frac{1}{16}$) it can be concluded that MDA would have a modest effect on reducing $F_v$ alone, and its effectiveness could be improved by incorporating other strategies into national control initiatives. Two key elements identified in $F_v$ are $\beta$ and $\psi$ which may be successfully reduced through targeted molluscicide use or in some cases, via the reintroduction of a natural predator species. Human contamination of water sources which perpetuates the transmission cycle should also be addressed through sustainable development of latrines and sanitation systems, as outlined in the SDG guidelines on water and hygiene. 
 
+\bigskip
 
- 
+\maketitle \textbf{References}
+\linebreak
+
+[1] Ciddio M, Mari L, Sokolow SH, De Leo GA, Casagrandi R, Gatto M. The spatial spread of schistosomiasis: A multidimensional network model applied to Saint-Louis region, Senegal. Advances in Water Resources. 2017;108:406-415. doi:10.1016/j.advwatres.2016.10.012.\\
+
+[2] Feng Z, Li CC, Milner FA. Schistosomiasis models with density dependence and age of infection in snail dynamics. Mathematics in Biosciences 2002;177-178:271–286. doi:10.1016/s0025-5564(01)00115-8
+
 \end{document}
