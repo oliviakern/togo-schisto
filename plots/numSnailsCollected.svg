@@ -1,0 +1,4248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="231.069mm"
+   height="101.953mm"
+   viewBox="0 0 655 289"
+   version="1.2"
+   id="svg2780"
+   sodipodi:docname="numSnailsCollected.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/tonio/repos/togo-schisto/plots/nunSnailsCollected.png"
+   inkscape:export-xdpi="205"
+   inkscape:export-ydpi="205">
+  <metadata
+     id="metadata2784">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1875"
+     inkscape:window-height="1025"
+     id="namedview2782"
+     showgrid="false"
+     inkscape:zoom="1.0331336"
+     inkscape:cx="365.45035"
+     inkscape:cy="214.44369"
+     inkscape:window-x="45"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780" />
+  <title
+     id="title1942">Qt SVG Document</title>
+  <desc
+     id="desc1944">Generated with Qt</desc>
+  <defs
+     id="defs1946" />
+  <g
+     id="g2778"
+     stroke-linejoin="bevel"
+     stroke-linecap="square"
+     stroke-width="1"
+     stroke="black"
+     fill-rule="evenodd"
+     fill="none">
+    <g
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1948"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none"
+       transform="matrix(1,0,0,1,0,0)" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1950"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1954"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,239.5 631.5,239.5 "
+         id="polyline1952"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1960"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,239.5 66.5,239.5 "
+         id="polyline1956"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,239.5 625.5,239.5 "
+         id="polyline1958"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1962"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1964"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1966"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1968"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1970"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1972"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g1976"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text1974"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 0</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,43.1317,244.246)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1978"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1980"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1984"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,201.5 631.5,201.5 "
+         id="polyline1982"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1990"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,201.5 66.5,201.5 "
+         id="polyline1986"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,201.5 625.5,201.5 "
+         id="polyline1988"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1992"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1994"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1996"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g1998"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2000"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2002"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2006"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2004"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 50</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,35.1072,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2008"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2010"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2014"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,164.5 631.5,164.5 "
+         id="polyline2012"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2020"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,164.5 66.5,164.5 "
+         id="polyline2016"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,164.5 625.5,164.5 "
+         id="polyline2018"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2022"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2024"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2026"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2028"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2030"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2032"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2036"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2034"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 100</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,169.016)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2038"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2040"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2044"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,127.5 631.5,127.5 "
+         id="polyline2042"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2050"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,127.5 66.5,127.5 "
+         id="polyline2046"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,127.5 625.5,127.5 "
+         id="polyline2048"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2052"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2054"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2056"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2058"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2060"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2062"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2066"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2064"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 150</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,131.903)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2068"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2070"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2074"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,89.5 631.5,89.5 "
+         id="polyline2072"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2080"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,89.5 66.5,89.5 "
+         id="polyline2076"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,89.5 625.5,89.5 "
+         id="polyline2078"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2082"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2084"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2086"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2088"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2090"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2092"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2096"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2094"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 200</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,94.7894)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2098"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2100"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2104"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,52.5 631.5,52.5 "
+         id="polyline2102"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2110"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,52.5 66.5,52.5 "
+         id="polyline2106"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,52.5 625.5,52.5 "
+         id="polyline2108"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2112"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2114"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2116"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2118"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2120"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2122"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2126"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2124"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 250</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,56.673)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2128"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2130"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2134"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="60.5,15.5 631.5,15.5 "
+         id="polyline2132"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2140"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,15.5 66.5,15.5 "
+         id="polyline2136"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,15.5 625.5,15.5 "
+         id="polyline2138"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2142"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2144"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2146"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2148"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2150"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2152"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2156"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2154"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000"> 300</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,27.0827,19.5597)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2158"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2160"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2166"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="70.5,239.5 70.5,236.5 "
+         id="polyline2162"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="70.5,15.5 70.5,18.5 "
+         id="polyline2164"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2170"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="105.5,239.5 105.5,15.5 "
+         id="polyline2168"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2176"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="105.5,239.5 105.5,233.5 "
+         id="polyline2172"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="105.5,15.5 105.5,21.5 "
+         id="polyline2174"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2178"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2180"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2182"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2184"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2186"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2188"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2192"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2190"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">07/12</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,88.7711,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2194"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2196"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2202"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="140.5,239.5 140.5,236.5 "
+         id="polyline2198"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="140.5,15.5 140.5,18.5 "
+         id="polyline2200"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2206"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="175.5,239.5 175.5,15.5 "
+         id="polyline2204"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2212"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="175.5,239.5 175.5,233.5 "
+         id="polyline2208"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="175.5,15.5 175.5,21.5 "
+         id="polyline2210"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2214"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2216"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2218"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2220"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2222"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2224"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2228"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2226"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">07/26</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,158.985,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2230"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2232"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2238"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="210.5,239.5 210.5,236.5 "
+         id="polyline2234"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="210.5,15.5 210.5,18.5 "
+         id="polyline2236"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2242"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="246.5,239.5 246.5,15.5 "
+         id="polyline2240"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2248"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="246.5,239.5 246.5,233.5 "
+         id="polyline2244"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="246.5,15.5 246.5,21.5 "
+         id="polyline2246"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2250"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2252"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2254"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2256"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2258"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2260"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2264"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2262"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">08/09</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,229.2,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2266"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2268"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2274"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="281.5,239.5 281.5,236.5 "
+         id="polyline2270"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="281.5,15.5 281.5,18.5 "
+         id="polyline2272"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2278"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="316.5,239.5 316.5,15.5 "
+         id="polyline2276"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2284"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="316.5,239.5 316.5,233.5 "
+         id="polyline2280"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="316.5,15.5 316.5,21.5 "
+         id="polyline2282"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2286"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2288"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2290"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2292"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2294"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2296"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2300"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2298"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">08/23</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,299.414,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2302"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2304"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2310"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="351.5,239.5 351.5,236.5 "
+         id="polyline2306"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="351.5,15.5 351.5,18.5 "
+         id="polyline2308"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2314"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="386.5,239.5 386.5,15.5 "
+         id="polyline2312"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2320"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="386.5,239.5 386.5,233.5 "
+         id="polyline2316"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="386.5,15.5 386.5,21.5 "
+         id="polyline2318"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2322"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2324"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2326"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2328"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2330"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2332"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2336"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2334"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">09/06</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,369.629,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2338"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2340"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2346"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="421.5,239.5 421.5,236.5 "
+         id="polyline2342"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="421.5,15.5 421.5,18.5 "
+         id="polyline2344"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2352"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="456.5,239.5 456.5,36.5 "
+         id="polyline2348"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="456.5,21.5 456.5,15.5 "
+         id="polyline2350"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2358"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="456.5,239.5 456.5,233.5 "
+         id="polyline2354"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="456.5,15.5 456.5,21.5 "
+         id="polyline2356"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2360"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2362"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2364"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2366"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2368"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2370"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2374"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2372"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">09/20</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,440.846,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2376"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2378"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2384"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="491.5,239.5 491.5,236.5 "
+         id="polyline2380"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="491.5,15.5 491.5,18.5 "
+         id="polyline2382"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2390"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="526.5,239.5 526.5,36.5 "
+         id="polyline2386"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="526.5,21.5 526.5,15.5 "
+         id="polyline2388"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2396"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="526.5,239.5 526.5,233.5 "
+         id="polyline2392"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="526.5,15.5 526.5,21.5 "
+         id="polyline2394"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2398"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2400"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2402"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2404"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2406"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2408"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2412"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2410"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">10/04</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,510.559,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2414"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2416"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2422"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="561.5,239.5 561.5,236.5 "
+         id="polyline2418"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="561.5,15.5 561.5,18.5 "
+         id="polyline2420"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2428"
+       font-family="Fira Sans"
+       stroke-dashoffset="0"
+       stroke-dasharray="0.5,1"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.5"
+       stroke="#a0a0a4"
+       fill="none">
+      <polyline
+         points="596.5,239.5 596.5,36.5 "
+         id="polyline2424"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="596.5,21.5 596.5,15.5 "
+         id="polyline2426"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2434"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="596.5,239.5 596.5,233.5 "
+         id="polyline2430"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="596.5,15.5 596.5,21.5 "
+         id="polyline2432"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2436"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2438"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2440"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2442"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2444"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2446"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2450"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2448"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">10/18</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,580.773,259.292)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2452"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2454"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2462"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="631.5,239.5 631.5,236.5 "
+         id="polyline2456"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="631.5,15.5 631.5,18.5 "
+         id="polyline2458"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="60.5,15.5 60.5,239.5 631.5,239.5 631.5,15.5 60.5,15.5 "
+         id="polyline2460"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2464"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2466"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2468"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2470"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2472"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2474"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2478"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2476"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">Number of snails collected</text>
+    </g>
+    <g
+       transform="matrix(0,-1.00306,1.00306,0,15.5475,207.132)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2480"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2482"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2484"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2486"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2488"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2490"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2494"
+       font-family="Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2492"
+         font-family="Sans"
+         stroke="none"
+         fill-opacity="1"
+         fill="#000000">Sampling Date (2018)</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,279.855,282.362)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2496"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2498"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2500"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2502"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2504"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2506"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,115.18908,36.23775)"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g2510"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:Sans;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-size="9"
+         font-weight="400"
+         font-style="normal"
+         id="text2508"
+         style="font-style:normal;font-weight:400;font-size:9px;font-family:Sans;fill:#000000;fill-opacity:1;stroke:none">Num. of snails collected</text>
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,436.332,33.6026)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2512"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,602.339,28.5873)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2514"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,281.19608,31.22245)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2524"
+       style="font-style:normal;font-weight:400;font-size:11px;font-family:'Fira Sans';fill:none;stroke:#ffa500;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <polyline
+         points="0,-3 0,3 "
+         id="polyline2516"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="-3,0 3,0 "
+         id="polyline2518"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="-3,-3 3,3 "
+         id="polyline2520"
+         style="vector-effect:none;fill:none" />
+      <polyline
+         points="-3,3 3,-3 "
+         id="polyline2522"
+         style="vector-effect:none;fill:none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,602.339,28.5873)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2526"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2528"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2530"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2532"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2542"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="60.5,236.5 60.5,242.5 "
+         id="polyline2534"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="57.5,239.5 63.5,239.5 "
+         id="polyline2536"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="57.5,236.5 63.5,242.5 "
+         id="polyline2538"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="57.5,242.5 63.5,236.5 "
+         id="polyline2540"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2552"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="95.5,236.5 95.5,242.5 "
+         id="polyline2544"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="92.5,239.5 98.5,239.5 "
+         id="polyline2546"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="92.5,236.5 98.5,242.5 "
+         id="polyline2548"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="92.5,242.5 98.5,236.5 "
+         id="polyline2550"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2562"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="165.5,236.5 165.5,242.5 "
+         id="polyline2554"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="162.5,239.5 168.5,239.5 "
+         id="polyline2556"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="162.5,236.5 168.5,242.5 "
+         id="polyline2558"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="162.5,242.5 168.5,236.5 "
+         id="polyline2560"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2572"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="235.5,236.5 235.5,242.5 "
+         id="polyline2564"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="232.5,239.5 238.5,239.5 "
+         id="polyline2566"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="232.5,236.5 238.5,242.5 "
+         id="polyline2568"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="232.5,242.5 238.5,236.5 "
+         id="polyline2570"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2582"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="341.5,217.5 341.5,223.5 "
+         id="polyline2574"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="338.5,220.5 344.5,220.5 "
+         id="polyline2576"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="338.5,217.5 344.5,223.5 "
+         id="polyline2578"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="338.5,223.5 344.5,217.5 "
+         id="polyline2580"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2592"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="381.5,224.5 381.5,230.5 "
+         id="polyline2584"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="378.5,227.5 384.5,227.5 "
+         id="polyline2586"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="378.5,224.5 384.5,230.5 "
+         id="polyline2588"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="378.5,230.5 384.5,224.5 "
+         id="polyline2590"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2602"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="386.5,183.5 386.5,189.5 "
+         id="polyline2594"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="383.5,186.5 389.5,186.5 "
+         id="polyline2596"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="383.5,183.5 389.5,189.5 "
+         id="polyline2598"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="383.5,189.5 389.5,183.5 "
+         id="polyline2600"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2612"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="411.5,124.5 411.5,130.5 "
+         id="polyline2604"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="408.5,127.5 414.5,127.5 "
+         id="polyline2606"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="408.5,124.5 414.5,130.5 "
+         id="polyline2608"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="408.5,130.5 414.5,124.5 "
+         id="polyline2610"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2622"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="416.5,236.5 416.5,242.5 "
+         id="polyline2614"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="413.5,239.5 419.5,239.5 "
+         id="polyline2616"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="413.5,236.5 419.5,242.5 "
+         id="polyline2618"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="413.5,242.5 419.5,236.5 "
+         id="polyline2620"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2632"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="421.5,236.5 421.5,242.5 "
+         id="polyline2624"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="418.5,239.5 424.5,239.5 "
+         id="polyline2626"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="418.5,236.5 424.5,242.5 "
+         id="polyline2628"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="418.5,242.5 424.5,236.5 "
+         id="polyline2630"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2642"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="426.5,236.5 426.5,242.5 "
+         id="polyline2634"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="423.5,239.5 429.5,239.5 "
+         id="polyline2636"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="423.5,236.5 429.5,242.5 "
+         id="polyline2638"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="423.5,242.5 429.5,236.5 "
+         id="polyline2640"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2652"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="441.5,236.5 441.5,242.5 "
+         id="polyline2644"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="438.5,239.5 444.5,239.5 "
+         id="polyline2646"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="438.5,236.5 444.5,242.5 "
+         id="polyline2648"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="438.5,242.5 444.5,236.5 "
+         id="polyline2650"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2662"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="446.5,206.5 446.5,212.5 "
+         id="polyline2654"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="443.5,209.5 449.5,209.5 "
+         id="polyline2656"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="443.5,206.5 449.5,212.5 "
+         id="polyline2658"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="443.5,212.5 449.5,206.5 "
+         id="polyline2660"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2672"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="451.5,236.5 451.5,242.5 "
+         id="polyline2664"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="448.5,239.5 454.5,239.5 "
+         id="polyline2666"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="448.5,236.5 454.5,242.5 "
+         id="polyline2668"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="448.5,242.5 454.5,236.5 "
+         id="polyline2670"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2682"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="461.5,209.5 461.5,215.5 "
+         id="polyline2674"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="458.5,212.5 464.5,212.5 "
+         id="polyline2676"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="458.5,209.5 464.5,215.5 "
+         id="polyline2678"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="458.5,215.5 464.5,209.5 "
+         id="polyline2680"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2692"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="481.5,198.5 481.5,204.5 "
+         id="polyline2684"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="478.5,201.5 484.5,201.5 "
+         id="polyline2686"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="478.5,198.5 484.5,204.5 "
+         id="polyline2688"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="478.5,204.5 484.5,198.5 "
+         id="polyline2690"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2702"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="591.5,12.5 591.5,18.5 "
+         id="polyline2694"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="588.5,15.5 594.5,15.5 "
+         id="polyline2696"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="588.5,12.5 594.5,18.5 "
+         id="polyline2698"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="588.5,18.5 594.5,12.5 "
+         id="polyline2700"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2712"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="596.5,218.5 596.5,224.5 "
+         id="polyline2704"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="593.5,221.5 599.5,221.5 "
+         id="polyline2706"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="593.5,218.5 599.5,224.5 "
+         id="polyline2708"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="593.5,224.5 599.5,218.5 "
+         id="polyline2710"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2722"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="601.5,228.5 601.5,234.5 "
+         id="polyline2714"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="598.5,231.5 604.5,231.5 "
+         id="polyline2716"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="598.5,228.5 604.5,234.5 "
+         id="polyline2718"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="598.5,234.5 604.5,228.5 "
+         id="polyline2720"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2732"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="621.5,86.5 621.5,92.5 "
+         id="polyline2724"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="618.5,89.5 624.5,89.5 "
+         id="polyline2726"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="618.5,86.5 624.5,92.5 "
+         id="polyline2728"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="618.5,92.5 624.5,86.5 "
+         id="polyline2730"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2742"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="626.5,202.5 626.5,208.5 "
+         id="polyline2734"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="623.5,205.5 629.5,205.5 "
+         id="polyline2736"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="623.5,202.5 629.5,208.5 "
+         id="polyline2738"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="623.5,208.5 629.5,202.5 "
+         id="polyline2740"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2752"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="2"
+       stroke="#ffa500"
+       fill="none">
+      <polyline
+         points="631.5,161.5 631.5,167.5 "
+         id="polyline2744"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="628.5,164.5 634.5,164.5 "
+         id="polyline2746"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="628.5,161.5 634.5,167.5 "
+         id="polyline2748"
+         fill="none"
+         vector-effect="none" />
+      <polyline
+         points="628.5,167.5 634.5,161.5 "
+         id="polyline2750"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2754"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2756"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2758"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2760"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2764"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#0000ff"
+       fill="none">
+      <polyline
+         points="60.5,239 60.5,239 95.6,239 165.8,239 235.9,239 341.2,220.3 381.3,227.8 386.3,186.8 411.4,127 416.4,239 421.4,239 426.4,239 441.4,239 446.4,209.1 451.5,239 461.5,212.9 481.5,201.7 591.8,15.1 596.8,221.1 601.8,231.5 621.9,89.7 626.9,205.4 631.9,164.4 "
+         id="polyline2762"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2766"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2768"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2772"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none">
+      <polyline
+         points="60.5,15.5 60.5,239.5 631.5,239.5 631.5,15.5 60.5,15.5 "
+         id="polyline2770"
+         fill="none"
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.00306,0,0,1.00306,0,0)"
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2774"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <g
+       font-size="11"
+       font-weight="400"
+       font-style="normal"
+       id="g2776"
+       font-family="Fira Sans"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-linecap="square"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none"
+       transform="matrix(1,0,0,1,0,0)" />
+  </g>
+</svg>
